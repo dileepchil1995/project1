@@ -1,5 +1,9 @@
 alabaster==0.7.12
+<<<<<<< HEAD
 anaconda-client @ git+https://github.com/Anaconda-Platform/anaconda-client.git@6d462d5429ee418ce208a7179c4b5ac4559aa879
+=======
+anaconda-client==1.7.2
+>>>>>>> 1a78ffae91528bc080c5b2f5964ca438c417d3ea
 anaconda-navigator==1.9.12
 anaconda-project==0.8.3
 applaunchservices==0.2.1
