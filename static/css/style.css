@@ -7,3 +7,9 @@
     height: 250px; /* Your height here */
     overflow: hidden;
 }
+
+.body-image {
+
+    background-image: url('/templates/photo.jpg');
+
+}
